@@ -1,0 +1,30 @@
+This is the output log showing functionality and bonus feature
+
+D:\yaraf\softwares\anaconda3\envs\ait-526\python.exe D:\yaraf\Documents\gmu\ait526\assignment1\eliza.py
+Hello! Welcome to AIT526 office of psychotherapist
+Please type 'quit' to stop the session
+
+eliza>> Hello there, My name is Eliza, your psychotherapist. What is your name?
+user>> Robert
+eliza>> Hello Robert, How are you feeling today?
+Robert>>  I am feeling sad
+eliza>> Why are you feeling sad?
+Robert>>  I had a panic attack yesterday
+eliza>> Tell me more about the panic attack yesterday.
+Robert>>  I don't like crowded places
+eliza>> Why don't you like crowded places?
+Robert>>  I feel happy when I'm with my friends
+eliza>> What is contributing to your feelings of happy when you are with your friends?
+Robert>>  I am addicted to smoking
+eliza>> Why are you addicted to smoking?
+Robert>>  I wont tell
+eliza>> Tell me more
+Robert>>  I wont tell
+eliza>> Tell me more
+Robert>>  I wont tell
+eliza>> Tell me more
+Robert>>  I wont tell
+Sorry, I am unable to help you further. Please email ait526@gmu.edu to talk to an advanced technician. Exiting...
+It was a pleasure talking to you
+
+Process finished with exit code 0
