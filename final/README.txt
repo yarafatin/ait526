@@ -12,8 +12,8 @@ Windows 11 WSL2 Ubuntu 20.04
 64GB Memory
 Nvidia GTX 3090 GPU
 The system was developed in AMD Ryzen 9 5950X machine. Intel architecture should also work fine
-Latest GPU like GTX 3090 is needed for faster training
-CPU based training is very slow and may take many days
+Latest GPU like GTX 3090 is needed for training
+CPU based training is very slow and may take many days. It may not work
 
 Installation:
 1. Install Anaconda and create a new environment
@@ -30,6 +30,8 @@ conda install -c conda-forge transformers
 Run Instructions:
 All four models can be trained and tested by calling main.py
 python main.py
+You can also individually run LSTM model by executing python lstm_model.py
+and transformer as python transformers_model.py
 The attached log file - run.log shows the full code run on the full dataset
 
 
